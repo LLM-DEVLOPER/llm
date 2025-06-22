@@ -1,1 +1,6 @@
 .idea
+.ipynb_checkpoints
+financial_reports
+product_images
+temp_hybrid_data
+main.py
