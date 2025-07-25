@@ -7,3 +7,4 @@
 3. llamaindex
 4. 大模型微调
 5. RAG
+6. 强化学习RL
